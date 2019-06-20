@@ -1,2 +1,0 @@
-# CourseDetails
-Created with CodeSandbox
